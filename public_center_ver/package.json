@@ -1,0 +1,25 @@
+{
+  "name": "public_center_ver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "@babel/node": "^7.22.19",
+    "@babel/preset-env": "^7.22.20"
+  }
+}
